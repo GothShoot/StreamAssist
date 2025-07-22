@@ -160,7 +160,7 @@ async def assist_run(
         stt_stream=stt_stream,
         intent_input=assist.get("intent_input"),
         tts_input=assist.get("tts_input"),
-        conversation_id=assist.get("conversation_id"),
+        # conversation_id=assist.get("conversation_id"),
         device_id=assist.get("device_id"),
     )
 
