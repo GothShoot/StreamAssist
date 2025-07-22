@@ -1,6 +1,6 @@
 {
-  "domain": "stream_assist",
-  "name": "Stream Assist",
+  "domain": "stream_assist_gothshooted",
+  "name": "Stream Assist Gothshooted edition",
   "codeowners": [
     "@AlexxIT"
   ],
@@ -13,5 +13,5 @@
   "iot_class": "calculated",
   "issue_tracker": "https://github.com/AlexxIT/StreamAssist/issues",
   "requirements": [],
-  "version": "v2.1.0"
+  "version": "v2.1.1"
 }
